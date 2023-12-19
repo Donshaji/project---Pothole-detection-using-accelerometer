@@ -8,3 +8,6 @@ Analyizing the data send by the device, and find which location have more bad ro
 
 -We are also planing to make a app that can detect potholes(smart phones have in build accelerometer)
 -Build a plugin for google map overlay to show road quality
+
+
+stage1 - Build openstreet Map app
