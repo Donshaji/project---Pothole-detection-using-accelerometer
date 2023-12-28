@@ -2,3 +2,7 @@ backend scripting
 >mongoDB database management
 >Machine learning modeles
 >Heroko or firebase
+
+
+When any change (addition or subtraction) of any coordinate on the database with a value, time and date.
+shows that coordinate a red circle on the map, the value is with respect to the intensity of the pothole.
